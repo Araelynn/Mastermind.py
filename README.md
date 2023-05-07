@@ -1,6 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Araelynn
+This is a short little python script that will allow you to play my rendition of the popular board game Mastermind through CMD. This was just practice for myself as all of the code is written from memory and condense to be as small as possible.
